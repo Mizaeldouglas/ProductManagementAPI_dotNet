@@ -41,3 +41,4 @@
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/ProductManagementAPI/ProductManagementAPI/obj/Debug/net7.0/ProductManagementAPI.csproj.CopyComplete
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/ProductManagementAPI/ProductManagementAPI/obj/Debug/net7.0/ProductManagementAPI.genruntimeconfig.cache
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/ProductManagementAPI/ProductManagementAPI/obj/Debug/net7.0/ref/ProductManagementAPI.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/ProductManagementAPI/ProductManagementAPI/obj/Debug/net7.0/ProductManagementAPI.sourcelink.json

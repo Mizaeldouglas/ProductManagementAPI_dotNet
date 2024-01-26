@@ -55,6 +55,18 @@ namespace ProductManagementAPI.Controllers
 
             return Ok(updatedCategory);
         }
+        [HttpDelete("{categoryId}")]
+        public async Task<ActionResult<bool>> DeleteCategory(int categoryId)
+        {
+            var result = await _categoryService.DeleteCategory(categoryId);
+
+            if (!result)
+            {
+                return NotFound();
+            }
+
+            return Ok(true);
+        }
         
     }
 }
